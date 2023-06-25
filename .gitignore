@@ -3,3 +3,23 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Bloop
+.bloop/
+
+# macOS
+.DS_Store
+
+# Metals
+.metals/
+metals.sbt
+
+# sbt
+project/project/
+project/target/
+target/
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+
