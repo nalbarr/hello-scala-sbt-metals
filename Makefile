@@ -11,3 +11,9 @@ test:
 
 run:
 	sbt run
+
+run1:
+  sbt run-main com.oax.hello.hello
+
+run2:
+  sbt run-main com.oax.threads.SingleThread

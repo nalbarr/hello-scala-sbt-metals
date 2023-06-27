@@ -1,6 +1,6 @@
-package com.oax.helloworld
+package com.oax.hello
 
-object HelloWorld {
+object Hello {
   def sayHello(): String =
     "Hello, world."
 
